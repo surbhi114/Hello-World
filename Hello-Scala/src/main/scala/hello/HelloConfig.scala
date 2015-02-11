@@ -22,6 +22,6 @@ class HelloConfig {
 
 @RequestMapping(Array("/"))
 @ResponseBody
-def home(): String = "Hello World!"
+def home(): String = "Hello Prashant Waykar!"
 
 }
